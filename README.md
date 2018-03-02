@@ -1,3 +1,3 @@
 # Flappy Bird Q-Learning
 
-Have fun [here](https://enhuiz.github.io/flappybird-ql/).
+Have fun [here](https://petterimanninen.github.io/flappybird-ql/).
